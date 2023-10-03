@@ -5,7 +5,7 @@ function Footer(){
         <footer>
             <div className='PrimeiraLinha'>
             <span>Desenvolvido pelo Caik</span>
-            <span>Portfólio Online</span>
+            <span>Minha Pokédex</span>
             <span>caik.job1707@gmail.com</span>
             </div>
             
