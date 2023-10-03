@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    min-height: 82vh;
+    min-width: 100%;
+    flex-wrap: wrap;
+    margin-top: 3vh;
+    
+}
